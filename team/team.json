@@ -4,97 +4,111 @@
         "name": "Balamurugan Sundararajan",
         "designation": "Founder & CEO",
         "mail": "Bala@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/bala-sundararajan-0b35bb7/"
+        "linkedin": "https://www.linkedin.com/in/bala-sundararajan-0b35bb7/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Bala.webp"
     },
     {
         "id": "002",
         "name": "Ravin Somi",
         "designation": "Co-Founder & CTO",
         "mail": "ravin@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/ravin-somi-1a960214/"
+        "linkedin": "https://www.linkedin.com/in/ravin-somi-1a960214/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Ravin-Somi.webp"
     },
     {
         "id": "003",
         "name": "Senthil Manikandan",
         "designation": "Software Developer",
         "mail": "mani@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/senthil-manikandan-433b6079/"
+        "linkedin": "https://www.linkedin.com/in/senthil-manikandan-433b6079/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Senthil-Manikandan.webp"
     },
     {
         "id": "004",
         "name": "Madhan Sasikumar",
         "designation": "Software Developer",
         "mail": "madhan@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/maddy-madhan-215269227/"
+        "linkedin": "https://www.linkedin.com/in/maddy-madhan-215269227/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Madhan-Sasi.webp"
     },
     {
         "id": "005",
         "name": "Deepthi Ravichandran",
         "designation": "Software Developer",
         "mail": "deepthi@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/deepthi-ravichandran-64a80121b/"
+        "linkedin": "https://www.linkedin.com/in/deepthi-ravichandran-64a80121b/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Deepthi.webp"
     },
     {
         "id": "006",
         "name": "Chandu Manikanta Attina",
         "designation": "Software Developer",
         "mail": "chandu@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/chandu-manikanta-attina/"
+        "linkedin": "https://www.linkedin.com/in/chandu-manikanta-attina/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Chandu.webp"
     },
     {
         "id": "007",
         "name": "Pavithra Ravi",
         "designation": "Recruiter",
         "mail": "pavithraravi@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/pavithra-ravi-59bab5329/"
+        "linkedin": "https://www.linkedin.com/in/pavithra-ravi-59bab5329/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Pavithra-Ravi.webp"
     },
     {
         "id": "008",
         "name": "Dharshika Prakash",
         "designation": "Candidate Registration Team Lead",
         "mail": "dharshika@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/dharshika-prakash-49a8a8329/"
+        "linkedin": "https://www.linkedin.com/in/dharshika-prakash-49a8a8329/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Dharshika.webp"
     },
     {
         "id": "009",
         "name": "Revathi Prabhakaran",
         "designation": "Senior Growth Executive",
         "mail": "revathi@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/revathi-prabhakaran-53aab5329/"
+        "linkedin": "https://www.linkedin.com/in/revathi-prabhakaran-53aab5329/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Revathi.webp"
     },
     {
         "id": "010",
         "name": "Priyanga Rajendran",
         "designation": "HR & Admin",
         "mail": "priyanga@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/harishpriyanga-rajendran-758b71329/"
+        "linkedin": "https://www.linkedin.com/in/harishpriyanga-rajendran-758b71329/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Priyanga.webp"
     },
     {
         "id": "011",
         "name": "Mathan Srinivasan",
         "designation": "Digital & Brand Marketer",
         "mail": "mathansrini@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/mathansrini/"
+        "linkedin": "https://www.linkedin.com/in/mathansrini/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Madhan-Sasi.webp"
     },
     {
         "id": "012",
         "name": "Salma Mohamath Ali",
         "designation": "Growth Executive",
         "mail": "salma@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/mohamath-salma-516ab5329/"
+        "linkedin": "https://www.linkedin.com/in/mohamath-salma-516ab5329/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Salma.webp"
     },
     {
         "id": "013",
         "name": "Mithra Sundararajan",
         "designation": "Senior Growth Executive",
         "mail": "mithra@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/mithra-sundararajan-841b71329/"
+        "linkedin": "https://www.linkedin.com/in/mithra-sundararajan-841b71329/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Mithra.webp"
     },
     {
         "id": "014",
         "name": "Sangeeth Siva",
         "designation": "Client Relationship Manager",
         "mail": "sangeeth@kaigal.com",
-        "linkedin": "https://www.linkedin.com/in/sangeeth-siva-b92416310/"
+        "linkedin": "https://www.linkedin.com/in/sangeeth-siva-b92416310/",
+        "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/team/images/Sangeeth.webp"
     }
 ]
