@@ -3,96 +3,128 @@
             "id": "01",
             "month": "January 2019",
             "content": "Kaigal Idea is Born",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/one.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/one.svg",
+            "title": "about_timeline_year_one",
+            "cardTitle": "about_timeline_year_one_content"
         },
         {
             "id": "02",
             "month": "June 2019",
             "content": "MVP Ready",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/two.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/two.svg",
+            "title": "about_timeline_year_two",
+            "cardTitle": "about_timeline_year_two_content"
         },
         {
             "id": "03",
             "month": "September 2019",
             "content": "First Customer Acquired",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/three.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/three.svg",
+            "title": "about_timeline_year_three",
+            "cardTitle": "about_timeline_year_three_content"
         },
         {
             "id": "04",
             "month": "December 2019",
             "content": "Kaigal is Registered",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/four.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/four.svg",
+            "title": "about_timeline_year_four",
+            "cardTitle": "about_timeline_year_four_content"
         },
         {
             "id": "05",
             "month": "March 2020",
             "content": "First Paid Customer",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/five.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/five.svg",
+            "title": "about_timeline_year_five",
+            "cardTitle": "about_timeline_year_five_content"
         },
         {
             "id": "06",
             "month": "May 2020",
             "content": "Website Launched",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/six.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/six.svg",
+            "title": "about_timeline_year_six",
+            "cardTitle": "about_timeline_year_six_content"
         },
         {
             "id": "07",
             "month": "August 2020",
             "content": "Kaigal Wins TANSEED 1.0 from StartupTN",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/seven.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/seven.svg",
+            "title": "about_timeline_year_seven",
+            "cardTitle": "about_timeline_year_seven_content"
         },
         {
             "id": "08",
             "month": "November 2020",
             "content": "Mobile App for Job Seekers Launched",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/eight.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/eight.svg",
+            "title": "about_timeline_year_eight",
+            "cardTitle": "about_timeline_year_eight_content"
         },
         {
             "id": "09",
             "month": "February 2021",
             "content": "Kaigal Expands to Multiple Districts",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/nine.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/nine.svg",
+            "title": "about_timeline_year_nine",
+            "cardTitle": "about_timeline_year_nine_content"
         },
         {
             "id": "10",
             "month": "April 2021",
             "content": "Kaigal Crosses 1L in Revenue Each Month",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/ten.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/ten.svg",
+            "title": "about_timeline_year_ten",
+            "cardTitle": "about_timeline_year_ten_content"
         },
         {
             "id": "11",
             "month": "June 2021",
             "content": "Kaigal Gets Investment from TNIFMC",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/eleven.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/eleven.svg",
+            "title": "about_timeline_year_eleven",
+            "cardTitle": "about_timeline_year_eleven_content"
         },
         {
             "id": "12",
             "month": "September 2021",
             "content": "Mobile/Web App for Employers Launched",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/tweleve.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/tweleve.svg",
+            "title": "about_timeline_year_tweleve",
+            "cardTitle": "about_timeline_year_tweleve_content"
         },
         {
             "id": "13",
             "month": "December 2021",
             "content": "Kaigal Expands to All Districts of Tamil Nadu",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/thirteen.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/thirteen.svg",
+            "title": "about_timeline_year_thirteen",
+            "cardTitle": "about_timeline_year_thirteen_content"
         },
         {
             "id": "14",
             "month": "March 2022",
             "content": "Workflow Automation Completed",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/fourteen.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/fourteen.svg",
+            "title": "about_timeline_year_fourteen",
+            "cardTitle": "about_timeline_year_fourteen_content"
         },
         {
             "id": "15",
             "month": "June 2022",
             "content": "Partner App Launched",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/fifteen.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/fifteen.svg",
+            "title": "about_timeline_year_fifteen",
+            "cardTitle": "about_timeline_year_fifteen_content"
         },
         {
             "id": "16",
             "month": "September 2022",
             "content": "Kaigal Sets Foot Outside Tamilnadu",
-            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/sixteen.svg"
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/sixteen.svg",
+            "title": "about_timeline_year_sixteen",
+            "cardTitle": "about_timeline_year_sixteen_content"
         }
     ]
