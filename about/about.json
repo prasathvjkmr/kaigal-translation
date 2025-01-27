@@ -1,0 +1,98 @@
+    [
+        {
+            "id": "01",
+            "month": "January 2019",
+            "content": "Kaigal Idea is Born",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/one.svg"
+        },
+        {
+            "id": "02",
+            "month": "June 2019",
+            "content": "MVP Ready",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/two.svg"
+        },
+        {
+            "id": "03",
+            "month": "September 2019",
+            "content": "First Customer Acquired",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/three.svg"
+        },
+        {
+            "id": "04",
+            "month": "December 2019",
+            "content": "Kaigal is Registered",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/four.svg"
+        },
+        {
+            "id": "05",
+            "month": "March 2020",
+            "content": "First Paid Customer",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/five.svg"
+        },
+        {
+            "id": "06",
+            "month": "May 2020",
+            "content": "Website Launched",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/six.svg"
+        },
+        {
+            "id": "07",
+            "month": "August 2020",
+            "content": "Kaigal Wins TANSEED 1.0 from StartupTN",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/seven.svg"
+        },
+        {
+            "id": "08",
+            "month": "November 2020",
+            "content": "Mobile App for Job Seekers Launched",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/eight.svg"
+        },
+        {
+            "id": "09",
+            "month": "February 2021",
+            "content": "Kaigal Expands to Multiple Districts",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/nine.svg"
+        },
+        {
+            "id": "10",
+            "month": "April 2021",
+            "content": "Kaigal Crosses 1L in Revenue Each Month",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/ten.svg"
+        },
+        {
+            "id": "11",
+            "month": "June 2021",
+            "content": "Kaigal Gets Investment from TNIFMC",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/eleven.svg"
+        },
+        {
+            "id": "12",
+            "month": "September 2021",
+            "content": "Mobile/Web App for Employers Launched",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/tweleve.svg"
+        },
+        {
+            "id": "13",
+            "month": "December 2021",
+            "content": "Kaigal Expands to All Districts of Tamil Nadu",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/thirteen.svg"
+        },
+        {
+            "id": "14",
+            "month": "March 2022",
+            "content": "Workflow Automation Completed",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/fourteen.svg"
+        },
+        {
+            "id": "15",
+            "month": "June 2022",
+            "content": "Partner App Launched",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/fifteen.svg"
+        },
+        {
+            "id": "16",
+            "month": "September 2022",
+            "content": "Kaigal Sets Foot Outside Tamilnadu",
+            "image": "https://raw.githubusercontent.com/prasathvjkmr/kaigal-translation/main/about/images/sixteen.svg"
+        }
+    ]
